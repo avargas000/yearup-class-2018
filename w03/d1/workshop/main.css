@@ -1,5 +1,6 @@
 img {
   width: 30%;
+  float:left;
   }
 
   .pic {
@@ -8,7 +9,7 @@ img {
 
 }
 
-.txt {
+p {
   display: inline-block;
   float: right;
 }
