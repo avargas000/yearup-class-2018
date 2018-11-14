@@ -1,0 +1,27 @@
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3){ }
+
+h1{
+  font-family: monospace;
+  color: red;
+  position: fixed;
+}
+
+
+img{
+  width: 200px;
+  height: 200px;
+  transition-delay: 2s;
+  transition-duration: 3s;
+  display: inline-block;
+}
+
+button{
+  left: 100px;
+}
+#logo {
+  width: 200px;
+height: 150px;
+}
