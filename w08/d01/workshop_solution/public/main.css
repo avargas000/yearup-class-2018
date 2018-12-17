@@ -1,0 +1,22 @@
+body {
+  background: rebeccapurple;
+  font-size: 120%;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+form {
+  margin: 200px auto 10px auto;
+  text-align: center;
+}
+
+input {
+  font-size:  120%;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+img {
+  width: 300px;
+}
